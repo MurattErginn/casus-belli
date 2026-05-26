@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7cea2144ab64fb7b685b907f1c20de4, type: 3}
+  m_Name: Army_Infartry
+  m_EditorClassIdentifier: Assembly-CSharp::CasusBelli.Cards.ArmyCardData
+  cardName: Infarty
+  description: 
+  artwork: {fileID: 0}
+  power: 9
+  abilities:
+  - {fileID: 11400000, guid: 6bd05bdda922d4846a8aaac375809069, type: 2}
